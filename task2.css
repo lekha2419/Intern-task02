@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    
+    background-image:url(bg3.jpg);
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-size: 1520px 750px;
+    color: white;
+    
+}
+.intro h1,h2{
+    
+    display: flex;
+    color: black;
+    position: relative;
+    margin-right: 60%
+    
+}
+.design-archives{
+    margin-left: 1000px;
+    position: relative;
+    bottom: 1580px;
+    
+}
+.design-archives h3{
+    color: black;
+}
+li{
+    list-style: none;
+}
+.design-archives a{
+    color: #74E291;
+    float: left;
+    margin-right: 15px;
+}
+.preamble{
+    position: relative;
+    margin-top: 800px;
+}
+.summary{
+    position: absolute;
+    margin-top: 700px;
+    
+}
+
+
+
